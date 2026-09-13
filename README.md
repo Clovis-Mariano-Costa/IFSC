@@ -1,4 +1,4 @@
-# 🏫 Instituto Federal de Santa Catarina — IFSC
+# 🏫 Instituto Federal de Santa Catarina — IFSC ***
 
 ![IFSC](https://img.shields.io/badge/Instituto-Federal%20de%20Santa%20Catarina-green)
 ![Educação](https://img.shields.io/badge/Educa%C3%A7%C3%A3o-P%C3%BAblica-blue)
